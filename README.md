@@ -1,3 +1,2 @@
 # hello-world
-desc
-i dont know what i am doing
+This is a ReadMe and I don't know what I am doing
